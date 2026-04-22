@@ -38,7 +38,3 @@ class FraudDetectionModel:
 
         print("Fraud probs sample:", fraud_probs[:10])
         print("Legit probs sample:", legit_probs[:10])
-
-
-
-print("hello")
