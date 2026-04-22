@@ -1,0 +1,7 @@
+/__pycache__
+/.idea
+*.iml
+frontend/.idea
+frontend/frontend.iml
+CreditCardFraudDetection.iml
+kp.pem
