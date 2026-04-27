@@ -260,7 +260,7 @@ function App() {
     setErrorMessage('')
 
     try {
-      const response = await fetch('https://creditcardfrauddetection-ov1l.onrender.com/fraudprob', {
+      const response = await fetch('https://frauddetect.live/fraudprob', {
         method: 'POST',
         body: formData,
       })
